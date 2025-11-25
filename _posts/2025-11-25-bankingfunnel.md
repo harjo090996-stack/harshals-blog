@@ -43,7 +43,9 @@ Capital Conservation Buffer (CCB) -
 
 As per RBI & Basel 3 norms, these are the required capital buffers →
 
-/assets/img/capital-requirements.png
+![Capital-Requirements](/assets/capital-requirements.PNG)
+_Capital Requirements_
+
 
 The last but not the least is the Leverage Ratio which measures the bank’s core capital (Tier 1) against its total exposure without risk weighting.
 
