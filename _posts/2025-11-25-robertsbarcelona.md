@@ -1,6 +1,6 @@
 ---
 title: "Langdon's Barcelona"
-date: 2025-11-26 10:00:00 +0530
+date: 2025-11-25 10:00:00 +0530
 categories: [Life, Travel]
 tags: [europe, barcelona, books]
 ---
