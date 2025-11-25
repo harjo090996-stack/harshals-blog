@@ -84,7 +84,7 @@ Key Components of RSF — Determined by liquidity characteristics & residual mat
 
 NSFR should be >= 100% under Basel 3. This ensures banks have sufficient stable funding to support their long-term illiquid assets and activities.
 
-### Summary
+## Summary
 To lend INR 100 →
 
 Equity Requirement (Own Capital Required) — CAR+CCB — 11.5% of 100 = 11.50
