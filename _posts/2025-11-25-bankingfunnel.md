@@ -8,13 +8,13 @@ With the monetary policy committee (MPC) of RBI meeting between 4th to 6th Augus
 
 This post is a short understanding of what part of equity and deposits the bank is able to lend out as loans and how different regulations reduce the available credit in the economy. This would be helpful to any one who is reading the financial statements of banks and trying to make sense of it.
 
-# Reserve Requirements
+## Reserve Requirements
 First we will look at capital requirements which Banks have to keep to function under duress (that is in event of a bank run). In India this is in the form of -
 
 Cash Reserve Ratio (CRR) — Banks must maintain a certain percentage of Net Demand and Time Liabilities (NDTL) with RBI in cash. This portion earns no interest and cannot be used for lending. As of today the CRR is 4.00%.
 Statutory Liquidity Ratio (SLR) — Banks need to maintain a certain percentage of NDTL in form of liquid assets like cash, gold and approved sovereign bonds. The amount held in sovereign bonds earns interest but is not available freely for lending. As of today SLR is 18.00%.
 
-# Equity Capital Requirements
+## Equity Capital Requirements
 The next form of capital which gets locked up for the bank is in the form of the Capital Adequacy Ratio (CAR) & Capital Conservation Buffer which is funds tied up for every 100 INR lent. CAR restricts the extent of lending relative to the banks capital base. This is part of the Basel forms put in force after the 2008 Financial crisis.
 
 CAR consists of Tier 1 + Tier 2 capital →
@@ -43,7 +43,7 @@ Capital Conservation Buffer (CCB) -
 
 As per RBI & Basel 3 norms, these are the required capital buffers →
 
-![Capital Reserve Requirements](/assets/img/capital-requirements.png)
+![Capital Reserve Requirements](/assets/capital-requirements.png)
 
 The last but not the least is the Leverage Ratio which measures the bank’s core capital (Tier 1) against its total exposure without risk weighting.
 
@@ -55,7 +55,7 @@ Off-balance exposures — Letters of credit, guarantees, derivatives exposure.
 
 Under Basel 3- 3% globally while RBI generally requires ~4.5% for Indian Banks.
 
-# Liquidity Requirements
+## Liquidity Requirements
 All the topics covered were the basics but there are some other liquidity requirements which are necessary for banks to maintain.
 
 Liquidity Coverage Ratio (LCR) — It is a Basel 3 requirement which makes a bank to hold a sufficient stock of High Quality Liquid Assets (HQLAs) to cover net cash outflows for 30 days under a stressed scenario.
@@ -84,7 +84,7 @@ Key Components of RSF — Determined by liquidity characteristics & residual mat
 
 NSFR should be >= 100% under Basel 3. This ensures banks have sufficient stable funding to support their long-term illiquid assets and activities.
 
-## Summary
+### Summary
 To lend INR 100 →
 
 Equity Requirement (Own Capital Required) — CAR+CCB — 11.5% of 100 = 11.50
