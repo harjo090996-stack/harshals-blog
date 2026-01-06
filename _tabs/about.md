@@ -11,7 +11,9 @@ Over time, my curiosity has expanded beyond textbooks and models into building a
 
 My primary interests lie at the intersection of Banking & Financial Services, Technology, Clean Energy, and Consumer businesses. I enjoy breaking down complex topics—whether it’s a bank’s balance sheet, a business model, or a macro trend—into simple, intuitive ideas. Reading and connecting ideas across domains are central to how I learn.
 
-## This website is a personal knowledge base and portfolio. It’s where I document:
+This website is a personal knowledge base and portfolio. 
+
+It’s where I document:
 
 🚀 Deep dives into finance, public markets and business concepts
 
