@@ -15,11 +15,11 @@ This website is a personal knowledge base and portfolio.
 
 It’s where I document:
 
-🚀 Deep dives into finance, public markets and business concepts
+1. Deep dives into finance, public markets and business concepts
 
-🚀 Notes and insights from books and podcasts
+2. Notes and insights from books and podcasts
 
-🚀 Explorations across technology, energy, and life beyond work
+3. Explorations across technology, energy, and life beyond work
 
 I believe good thinking compounds. By writing regularly and revisiting ideas, I aim to sharpen my understanding and share perspectives that are clear, honest, and grounded in fundamentals.
 
