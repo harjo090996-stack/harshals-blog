@@ -1,0 +1,59 @@
+/* SAFE VERSION: Mini Sidebar for Mobile */
+@media (max-width: 1199px) {
+  /* 1. Force Sidebar Visibility */
+  #sidebar {
+    display: flex !important;
+    visibility: visible !important;
+    transform: none !important;
+    width: 65px !important;
+    padding: 0 !important;
+    align-items: center;
+  }
+
+  /* 2. Shrink Profile Icon */
+  #sidebar .profile-wrapper {
+    padding: 15px 0 !important;
+  }
+  
+  #avatar {
+    width: 40px !important;
+    height: 40px !important;
+    margin: 0 auto !important;
+  }
+
+  /* Hide Name and Tagline */
+  .site-title, .site-subtitle {
+    display: none !important;
+  }
+
+  /* 3. Icons Only */
+  #sidebar .nav-item {
+    justify-content: center !important;
+    padding: 10px 0 !important;
+  }
+
+  #sidebar .nav-item i {
+    font-size: 1.2rem;
+    margin: 0 !important;
+  }
+
+  #sidebar .nav-item span {
+    display: none !important;
+  }
+
+  /* 4. Shift Main Content */
+  #main-wrapper {
+    margin-left: 65px !important;
+    width: calc(100% - 65px) !important;
+  }
+
+  #topbar-wrapper {
+    left: 65px !important;
+    width: calc(100% - 65px) !important;
+  }
+
+  /* 5. Hide Mobile Trigger & Search */
+  #sidebar-trigger, #search-input, .sidebar-bottom {
+    display: none !important;
+  }
+}
