@@ -12,18 +12,18 @@ Lo and behold, just as one month passes by after the economic survey, we have co
 
 Despite the government's record breaking public capex estimated at 4.4% of GDP for FY27, private sector participation remains muted, it has been stagnant hovering around ~23% of total Gross Fixed Capital Formation (GFCF) for a long time. For emerging and developing economies like us which need to create more jobs to in turn drive consumption, this remains the missing engine.
 
-![Private Capex](/assets/private-capex-gdp.PNG)
+![Private Capex](/assets/private-capex-gdp.png)
 
 # Credit Cooling
 
 Along with immediate Capex, companies also seem to be pulling away from creating capacity or projects in the near future, largely deleveraging and using idle cash for buybacks instead of creating IP assets. The share of industrial credit is declining while the share of unsecured personal credit is increasing in the economy. Banks have pivoted heavily toward retail loans (housing, personal loans) and the services sector. This shift reflects a cautious approach by both lenders and borrowers in the industrial segment.
-![Industrial Credit Cooling](/assets/industrial-credit.PNG)
+![Industrial Credit Cooling](/assets/industrial-credit.png)
 
 # The Global Retreat of FDI
 
 While FPI in a country is less sticky and prone to flight, FDI is considered to be more sticky & unfortunately FDI in India has also not moved much in spite of recent interventions like PLI schemes and tax breaks offered heavily under Made In India. The beneficiary of China plus one strategy seem to be other countries in Asia notably Thailand and Vietnam while China is moves away from heavy machinery towards the new three sectors- Electric Vehicles, Lithium Batteries and Solar Products. South Korea has been moving forward in hardware required for AI infrastructure to be competitive against it's peers in China and Taiwan.
 
-![Global Retreat of FDI](/assets/fdi-retreat.PNG)
+![Global Retreat of FDI](/assets/fdi-retreat.png)
 
  
 # The Unlikely Victims of Connected World Order
